@@ -1,0 +1,2 @@
+# sharpe_orani_hesaplama_uygulamasi
+odev
